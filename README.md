@@ -1,1 +1,3 @@
-Everhour Clone
+Full stack website Clone of Everhour
+
+.
